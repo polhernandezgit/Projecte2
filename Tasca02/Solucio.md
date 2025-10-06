@@ -98,6 +98,23 @@ Els SAI que recomano son els següents:
 ![Model 3.](img/Model3.png.png)
 
 
+
+
+
+| Característica       | SLC-4000 TWIN PRO3                     | SLC-4000 TWIN RT3                      | SLC-7,5 CUBE4                            |
+|----------------------|----------------------------------------|----------------------------------------|------------------------------------------|
+| Marca                | Salicru                               | Salicru                               | Salicru                                 |
+| Tipus                | On-line monofàsic (doble conversió)    | On-line monofàsic (doble conversió)    | On-line trifàsic (doble conversió, DSP control) |
+| Potència             | 4000 VA                               | 4000 VA                               | 7500 VA                                 |
+| Freqüència d’entrada | 50 / 60 Hz                            | 50 / 60 Hz (segons potència)          | 50 / 60 Hz (segons potència)            |
+| Rendiment            | 95% On-line / 98% Eco                 | 95% On-line / 98% Eco                 | 95% - 98% On-line / 98% Eco             |
+| Sortida              | 8 × IEC C13                           | 8 × IEC C13                           | Bornes trifàsiques per càrregues industrials |
+| Treball en paral·lel | Sí, fins a 3 equips                   | Sí, fins a 3 equips                   | Sí, fins a 4 equips                     |
+| Dimensions           | 225×492×589 mm                        | 439×592×129 mm                        | 250×689×827 mm                          |
+| Pes                  | 51 kg                                 | 55,6 kg                               | 88 kg                                   |
+| Preu estimat         | 1.750 € - 2.200 €                     | 2.000 € - 2.350 €                     | 4.598 €                                 |
+
+
   -------------------------------------------------------------------------------
 | Característiques                | **SLC-4000-TWIN PRO3** | **SLC-4000-TWIN RT3** | **SLC-7,5-CUBE4** |
 |--------------------------------|------------------------|-----------------------|-------------------|
