@@ -124,4 +124,4 @@ El **SAI recomanat** per a l'empresa **TecnoGestió S.L.** és el model
 client.
 
 ## Tornar a la pàgina principal
-
+[Tornar a la pàgina principal.](../README.md)
