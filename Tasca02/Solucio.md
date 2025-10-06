@@ -97,10 +97,6 @@ Els SAI que recomano son els següents:
 
 ![Model 3.](img/Model3.png.png)
 
-
-
-
-
 | Característica       | SLC-4000 TWIN PRO3                     | SLC-4000 TWIN RT3                      | SLC-7,5 CUBE4                            |
 |----------------------|----------------------------------------|----------------------------------------|------------------------------------------|
 | Marca                | Salicru                               | Salicru                               | Salicru                                 |
@@ -113,22 +109,6 @@ Els SAI que recomano son els següents:
 | Dimensions           | 225×492×589 mm                        | 439×592×129 mm                        | 250×689×827 mm                          |
 | Pes                  | 51 kg                                 | 55,6 kg                               | 88 kg                                   |
 | Preu estimat         | 1.750 € - 2.200 €                     | 2.000 € - 2.350 €                     | 4.598 €                                 |
-
-
-  -------------------------------------------------------------------------------
-| Característiques                | **SLC-4000-TWIN PRO3** | **SLC-4000-TWIN RT3** | **SLC-7,5-CUBE4** |
-|--------------------------------|------------------------|-----------------------|-------------------|
-| **Potència (VA)**              | 4000 VA               | 4000 VA              | 7500 VA           |
-| **Topologia**                  | Online, doble conversió | Online, doble conversió | Online, doble conversió, DSP control |
-| **Freqüència d’entrada**       | 50 / 60 Hz            | 50 / 60 Hz (segons potència) | 50 / 60 Hz (segons potència) |
-| **Eficiència (mode online)**   | 95%                   | 95%                  | 95% - 98%         |
-| **Eficiència (mode ECO)**      | 98%                   | 98%                  | 98%               |
-| **Dimensions (A×P×H)**         | 225×492×589 mm        | 439×592×129 mm       | 250×689×827 mm    |
-| **Pes**                        | 51 kg                 | 55,6 kg              | 88 kg             |
-| **Sortides**                   | 8 × IEC C13           | 8 × IEC C13          | Bornes trifàsiques per càrregues industrials |
-| **Preu aproximat**             | 1.750 € - 2.200 €     | 2.000 € - 2.350 €    | 4.598 €           |
-| **Marca**                      | Salicru               | Salicru              | Salicru           |
-
 
 ------------------------------------------------------------------------
 
