@@ -88,7 +88,7 @@ d'aproximadament **813 Ah**.
 **- Cerca de 2 o 3 models de SAI que compleixin els requisits:**
 Els SAI que recomano son els següents:
 
-![Descripció de la imatge](Model1.png)
+
 
 
   -------------------------------------------------------------------------------
