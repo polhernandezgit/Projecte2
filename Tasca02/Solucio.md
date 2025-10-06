@@ -88,6 +88,8 @@ d'aproximadament **813 Ah**.
 **- Cerca de 2 o 3 models de SAI que compleixin els requisits:**
 Els SAI que recomano son els següents:
 
+![Descripció de la imatge](Model1.png)
+
 
   -------------------------------------------------------------------------------
 | Característiques                | **SLC-4000-TWIN PRO3** | **SLC-4000-TWIN RT3** | **SLC-7,5-CUBE4** |
