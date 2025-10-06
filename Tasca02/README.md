@@ -7,4 +7,4 @@ Davant les constants incidències amb el subministrament elèctric a la zona,
 la direcció ha decidit adquirir un SAI per garantir la continuïtat del servei i protegir els equips.
 
 ## Solució
-En l'arxiu solucio.md estan les solucions de la tasca 02.
+En l'arxiu [Solucio.md](Solucio.md) estan les solucions de la tasca 02.
