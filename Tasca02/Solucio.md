@@ -123,5 +123,5 @@ El **SAI recomanat** per a l'empresa **TecnoGestió S.L.** és el model
 **dimensions compactes**, fent-lo ideal per a les necessitats del
 client.
 
-## Tornar a la pàgina principal
+
 [Tornar a la pàgina principal.](../README.md)
