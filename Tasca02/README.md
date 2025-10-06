@@ -9,4 +9,4 @@ la direcció ha decidit adquirir un SAI per garantir la continuïtat del servei 
 ## Solució
 En l'arxiu [Solucio.md](Solucio.md) estan les solucions de la tasca 02.
 
-[Tornar a la pàgina principal.](../Projecte2)
+[Tornar a la pàgina principal.](../README.md)
