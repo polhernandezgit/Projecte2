@@ -57,3 +57,5 @@ Per últim reiniciem la màquina i veiem si ens demana el nom d’usuari i la co
 ![]()
 
 
+Enllaç al drive: https://drive.google.com/drive/u/0/folders/1gxAv-g1949wPHjVZ0O2bhYzN_9W0S1a_
+
