@@ -4,7 +4,7 @@ Recuperant accés a sistemes
 En aquesta tasca el que haurem de fer es recuperar la contrasenya del client Miquel Valls.
 Per això, el primer que haurem de fer es entrar a la màquina virtual del nostre client i mentre està entrar apretar shift i qualsevol lletra. Després haurem d’elegir la segona opció de les  quatre que ens dona i després tornar a elegir la segona opció.
 
-![]()
+![Captura 1](Captura1.png)
 
 Un cop a dins del menú elegirem la opcio de root.
 
