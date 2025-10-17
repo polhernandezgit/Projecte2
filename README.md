@@ -9,5 +9,4 @@ En aquest projecte comencem la nova aventura a EverPia, que es tracta d'un proje
 # Tasques.
 - [Tasca02](Tasca02)
 - [Tasca03](Tasca03)
-- [Tasca04](Tasca04)
 - [Tasca08](Tasca08)
