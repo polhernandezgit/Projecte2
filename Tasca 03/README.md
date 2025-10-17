@@ -1,4 +1,4 @@
-Recuperant accés a sistemes
+# Recuperant accés a sistemes
  
 
 En aquesta tasca el que haurem de fer es recuperar la contrasenya del client Miquel Valls.
