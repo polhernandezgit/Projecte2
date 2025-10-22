@@ -1,7 +1,7 @@
 # T11: Instal·lació de WordPress en local amb WP Local – Aplicacions Web
 
 
-
+![Captura 1]()
 
 
 
